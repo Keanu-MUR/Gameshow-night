@@ -1,0 +1,54 @@
+THE CHIHUAHUA CUP
+=================
+
+Everything the game needs is in this folder. It does not use the internet,
+an account, or Claude.
+
+TO PLAY
+  Windows:  double-click  "Play The Chihuahua Cup (Windows)"
+  Mac:      double-click  "Play The Chihuahua Cup (Mac)"
+            (first time only: right-click it, choose Open, then Open again)
+
+The game opens in its own window, with no address bar or tabs. Press
+"Full screen" in the top corner once it is on the TV.
+
+WHAT IS IN THE FOLDER
+  chihuahua-cup.html   the game itself: all rounds, questions and scoring
+  Play ... (Windows)   launcher for Windows
+  Play ... (Mac)       launcher for Mac
+  data                 appears after the first run: your scores, settings,
+                       photos and edited questions are kept here
+
+SEEING THE ANSWERS WHILE YOU HOST
+  On the laptop: in Setup press "Open the host screen". It lists every
+  question and answer and follows the show by itself. Press Windows key + P
+  and choose Extend, put the show window on the TV and keep the host screen
+  on the laptop.
+  On a phone: copy chihuahua-cup.html onto the phone, open it and press
+  "Open the host screen". On the laptop, in Setup, press "Show the code for
+  your phone", scan it with the phone camera, copy the text and paste it
+  into the phone's host screen. No internet is needed.
+
+MOVING IT TO ANOTHER COMPUTER
+  Copy the whole folder, including "data", to a USB stick or the other
+  computer. Scores, settings and photos come with it.
+
+STARTING COMPLETELY FRESH
+  Use "Reset for a new game" in Setup to zero the scores, or delete the
+  "data" folder to wipe scores, settings and photos.
+
+IF THE LAUNCHER DOES NOT WORK
+  Double-click chihuahua-cup.html. It opens in your normal browser and
+  plays exactly the same. (Scores saved that way are kept by that browser,
+  separately from the "data" folder.)
+
+WHAT THE LAUNCHER NEEDS
+  Microsoft Edge (already on every Windows 10 and 11 PC), Google Chrome or
+  Brave. It uses that browser's engine to draw the window, offline.
+
+CREDITS
+  The typefaces are CupAdventor and CupHeros, trimmed copies of TeX Gyre
+  Adventor and TeX Gyre Heros by GUST, used under the GUST Font License
+  (see FONT-LICENCE.txt).
+  The QR code generator is QRCode for JavaScript by Kazuhiko Arase
+  (MIT licence). QR Code is a registered trademark of DENSO WAVE.
